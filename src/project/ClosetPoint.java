@@ -1,3 +1,5 @@
+package project;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -121,7 +123,7 @@ class Point {
 
     @Override
     public String toString() {
-        return "Point{" +
+        return "project.Point{" +
                 "x=" + x +
                 ", y=" + y +
                 '}';
